@@ -10,10 +10,9 @@
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
-
 .
 .
 .
-
-这是照着Laravel学院的教程--基于 Laravel 5.7 开发博客应用系列，做的，
+本项目是Laravel学院的教程--基于 Laravel 5.7 开发博客应用系列
 https://laravelacademy.org/post/9729.html
+的练习.
